@@ -1,0 +1,5 @@
+region_value="ap-southeast-1"
+ami_value="ami-0c1907b6d738188e5"
+subnet_value="subnet-0f95624d3ff01aa62"
+instance_value="t2.micro"
+key_value="vinay-tf"
